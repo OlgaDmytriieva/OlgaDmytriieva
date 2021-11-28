@@ -16,8 +16,7 @@ reports, test cases, test scripts, checklists);
 methods, HTTP status codes);
 🔹 Understanding of testing processes and 
 methodologies; 
-🔸 Pre-Intermediate English;
-I’m know HTML, CSS, Bootstrap
+🔸 I’m know HTML, CSS, Bootstrap
 🔹 How to reach me: 
       ▪️Telegram/Viber: +380969836414 
       ▫️E-mail: Olgadmitrieva19944@gmail.com 
