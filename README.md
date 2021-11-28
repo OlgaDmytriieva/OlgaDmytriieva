@@ -1,8 +1,6 @@
 🔹 Hello! My name is Olga. I'm QA engineer. 
-🔸 Certificates - "QATestLab"
-: Basics of software testing;
-🔹 Language: English - Pre-intermediate. Ukrainе/Russian - native;
-🔸 Understanding of software development 
+🔸 Certificates - QATestLab-"Basics of software testing";
+🔹 Language: English - Pre-intermediate. Ukrainе/Russian - native🔸 Understanding of software development 
 processes;
 🔹 Understanding of basic testing methods 
 (functional, acceptance, regression, smoke, black 
